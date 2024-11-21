@@ -11,5 +11,4 @@ public class Exercise15 {
 		System.out.println(fm.getLocation());
 
 	}
-
 }
